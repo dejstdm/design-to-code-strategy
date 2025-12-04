@@ -1,0 +1,4 @@
+### Scenario 3 — Adding New Features to an Existing Site
+
+New pages, sections, or components are added to an already-launched website—whether it was originally built using the White-Label Component Library or as a fully custom Figma design. Designers prepare new screens or modules in Figma, and developers implement them while working within the constraints of the existing codebase, CMS structure, and technical decisions made earlier in the project.  
+This workflow often requires refactoring, extending existing components, or adapting the backend to support new content types. It provides flexibility for ongoing improvements but can introduce complexity due to legacy decisions and varying technical foundations of earlier project phases.
