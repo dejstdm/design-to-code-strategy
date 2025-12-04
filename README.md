@@ -11,23 +11,26 @@ All documents are written in Markdown to support versioning, diffing, collaborat
 ```
 design-to-code-strategy/
 ┣ architecture/
-┃ ┣ component-contracts.md
-┃ ┣ headless-drupal.md
-┃ ┗ nextjs-architecture.md
+┃ ┣ component-contracts.md (📝 TBD)
+┃ ┣ headless-drupal.md (📝 TBD)
+┃ ┗ nextjs-architecture.md (📝 TBD)
 ┣ notes/
 ┣ scenarios/
-┃ ┣ scenario-1-white-label-site-creation/
+┃ ┣ scenario-1-white-label-site-creation/ (✅ Complete)
+┃ ┃ ┣ overview.md
+┃ ┃ ┣ option-1.md
+┃ ┃ ┣ option-2.md
+┃ ┃ ┗ option-3.md
+┃ ┣ scenario-2-free-design/ (⚠️ Draft)
 ┃ ┃ ┗ overview.md
-┃ ┣ scenario-2-free-design/
+┃ ┣ scenario-3-feature-additions/ (⚠️ Draft)
 ┃ ┃ ┗ overview.md
-┃ ┣ scenario-3-feature-additions/
-┃ ┃ ┗ overview.md
-┃ ┗ scenario-4-ai-prototyping/
+┃ ┗ scenario-4-ai-prototyping/ (⚠️ Draft)
 ┃   ┗ overview.md
-┗ glossary.md
+┗ glossary.md (📝 TBD)
 ```
 
-### **/architecture/**
+### **/architecture/** (📝 TBD)
 
 Technical foundations required to enable any AI-driven workflow.
 Includes documentation on:
@@ -35,6 +38,8 @@ Includes documentation on:
 * **component contracts** (backend-driven component definitions),
 * **headless Drupal**,
 * **Next.js architecture**, SSR/ISR, caching, and integration requirements.
+
+*Note: Architecture files currently contain placeholder content and will be populated as prerequisites are defined.*
 
 ### **/scenarios/**
 
@@ -45,15 +50,19 @@ Each scenario has its own folder with an `overview.md` describing:
 * what problems it has,
 * and which AI or automation opportunities may apply.
 
-Scenario 1 contains multiple sub-options (Layout Assembly, Theme Builder, AI-Generated UI Implementations, etc.) once they are added.
+**Status:**
+* **Scenario 1 (✅ Complete)**: White Label Site Creation — includes three detailed options for AI acceleration
+* **Scenarios 2-4 (⚠️ Draft)**: Placeholder content, to be expanded
 
 ### **/notes/**
 
 A space for drafts, ideas, experiment results, meeting notes, and temporary material that will later be integrated into the main documents.
 
-### **glossary.md**
+### **glossary.md** (📝 TBD)
 
 A shared vocabulary for all terms used across the documentation (AI tooling, component contracts, backend terminology, frontend concepts, etc.).
+
+*Note: Glossary is a placeholder and will be populated as terms are defined across the documentation.*
 
 ---
 

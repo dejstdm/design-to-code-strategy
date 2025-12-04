@@ -1,4 +1,6 @@
+← [Back to Scenario 1 Overview](overview.md) | [Repository Root](../../README.md)
 
+---
 
 # 1\. Layout Assembly (partially validated in tests)
 

@@ -1,12 +1,16 @@
+← [Repository Root](../README.md)
+
+---
+
 ### Scenario 1 – White Label Site Creation
 
 Websites are built using the predefined White-Label Component Library. Designers work within strict component boundaries, selecting existing blocks and variations rather than creating new layouts from scratch. This approach ensures fast development, consistent branding, predictable QA, and low engineering cost, but limits visual creativity. 
 
 
 ## AI Acceleration Opportunities for Scenario 1 - White Label Site Creation
-- 1. Layout Assembly (partially validated in tests) ./option-1.md
-- 2. Additional Opportunity: Theme Builder for Existing Components (Non-AI) ./option-2.md
-- 3. AI-Generated UI Implementations for Backend Component Contracts ./option-3.md
+- [1. Layout Assembly (partially validated in tests)](option-1.md)
+- [2. Additional Opportunity: Theme Builder for Existing Components (Non-AI)](option-2.md)
+- [3. AI-Generated UI Implementations for Backend Component Contracts](option-3.md)
 
 
 

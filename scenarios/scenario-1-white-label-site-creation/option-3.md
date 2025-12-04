@@ -1,3 +1,7 @@
+← [Back to Scenario 1 Overview](overview.md) | [Repository Root](../../README.md)
+
+---
+
 # 3\. AI-Generated UI Implementations for Backend Component Contracts
 
 In this opportunity, the White Label React library is not used during page creation. Instead, the backend becomes the single source of truth. Each backend component (such as Hero, Product Slider, or FAQ) is described by a machine-readable contract defining its fields, field types, allowed options, and constraints. AI builder tools (Lovable, Builder.io, Figma Make) can then generate completely new React implementations for these components while strictly following the backend-defined contract.  

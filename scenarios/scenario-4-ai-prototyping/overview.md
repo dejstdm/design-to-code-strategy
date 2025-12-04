@@ -1,3 +1,7 @@
+← [Repository Root](../README.md)
+
+---
+
 ### Scenario 4 — AI-Based Prototyping by Designers or PMs
 
 Designers or project managers create interactive prototypes using AI-assisted tools such as Lovable, Builder.io, or Figma Make. These prototypes are generated through prompting rather than traditional design workflows. They aim to quickly explore ideas, demonstrate concepts to clients, or validate user flows.  

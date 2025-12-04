@@ -1,3 +1,7 @@
+← [Back to Scenario 1 Overview](overview.md) | [Repository Root](../../README.md)
+
+---
+
 # 2\. Additional Opportunity: Theme Builder for Existing Components (Non-AI)
 
 A separate product could be developed to allow designers and PMs to visually create new themes for the White Label Component Library. This tool would function similarly to modern theme editors such as Tweak — offering a user interface where global design tokens can be adjusted and previewed instantly across all components.
